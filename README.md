@@ -1,1 +1,1 @@
-# SQL_Practice
+http://www.sql-practise.com/

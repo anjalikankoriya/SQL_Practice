@@ -1,1 +1,1 @@
-[www.sql-practise.com]{http://www.sql-practise.com/}
+[www.sql-practise.com] {http://www.sql-practise.com/}

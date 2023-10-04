@@ -3,7 +3,12 @@
 
 The aim of this repository is to help learners and professionals who want to improve and grow their SQL knowledge for their careers. I thought (https://www.sql-practice.com) the website was user-friendly and informative, but neither GitHub nor the website released the entire solution book. As a result, you may now find answers to each problem along with alternative options.
 
-The test contains 42 questions and consists of 2 category:
+
+VIEW DATABASE SCHEMA:
+
+![image](https://github.com/anjalikankoriya/SQL_Practice/assets/111731531/d27adf8b-355f-42db-9f67-71bde88f6ff7)
+
+The test contains 42 questions and consists of two categories:
 
 - Easy
 - Medium

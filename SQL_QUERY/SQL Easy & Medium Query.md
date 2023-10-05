@@ -1,12 +1,13 @@
 
 # SQL QUERY PRACTICE
 
-The aim of this repository is to help learners and professionals who want to improve and grow their SQL knowledge for their careers. I thought (https://www.sql-practice.com) the website was user-friendly and informative, but neither GitHub nor the website released the entire solution book. As a result, you may now find answers to each problem along with alternative options.
+The aim of this repository is to help learners and professionals who want to improve and grow their SQL knowledge for their careers. I thought (https://www.sql-practice.com) the website was user-friendly and informative, but neither GitHub nor the website released the entire solution book. As a result, you may now find answers to each problem and alternative options.
 
-The test contains 42 questions and consists of 2 category:
+The test contains 52 questions and consists of three categories:
 
 - Easy
 - Medium
+- Hard
 
 You can use the following Entity Relationship Diagram (ERD) to figure out what data to store, the entities, their attributes and also how entities relate to other entities.
 

@@ -9,7 +9,7 @@ The test contains 52 questions and consists of three categories:
 - Medium
 - Hard
 
-You can use the following Entity Relationship Diagram (ERD) to figure out what data to store, the entities, their attributes and also how entities relate to other entities.
+You can use the following Entity Relationship Diagram (ERD) to figure out what data to store, the entities, their attributes, and how entities relate to other entities.
 
 
 ## Section: Easy
